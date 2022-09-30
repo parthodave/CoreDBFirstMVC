@@ -14,7 +14,8 @@ namespace WebApplication1.Model
         [Required]
         public string Name { get; set; }
         public string Author { get; set; }
-
+        
+        
         public string ISBN { get; set; }
     }
 }
